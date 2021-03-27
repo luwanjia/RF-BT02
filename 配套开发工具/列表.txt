@@ -1,0 +1,13 @@
+【串口调试助手】UartAssist 最新版
+
+【串口调试助手】XCOM 最新版//推荐
+
+【串口调试助手】Serial USB Terminal 安卓手机可用 //推荐
+
+【手机BLE测试】LightBlue
+
+【手机BLE测试】nRF Connect
+
+【电脑BLE测试】USB Dongle及Btool测试使用说明资料和软件驱动
+
+【OTA升级软件】EFR connect
